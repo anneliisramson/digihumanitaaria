@@ -12,8 +12,6 @@ BOT_NAME = 'delfiscraper'
 SPIDER_MODULES = ['delfiscraper.spiders']
 NEWSPIDER_MODULE = 'delfiscraper.spiders'
 FEED_FORMAT = "csv"
-#FEED_URI = "delfi_päevauudised_2020_03122020.csv"
-
 
 #FEED_URI = "delfi_lingid_hoberemmelgas.csv"
 FEED_URI = "delfi_lingid_tselluloositehas.csv"
